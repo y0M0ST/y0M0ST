@@ -1,7 +1,7 @@
 # Hi there 👋 I'm y0M0ST Nguyen - a Backend Developer
 
 - 🔭 I’m currently working as an outsource company.
-- 🌱 I’m currently learning **Microservices and Monolith architecture**.
+- 🌱 I’m currently learning Microservices and Monolith architecture.
 - 👯 I’m looking to collaborate on **Open-source and Backend projects**.
 
 - 💬 Ask me about: **Node.js, TypeScript, API Design, SQL**.
