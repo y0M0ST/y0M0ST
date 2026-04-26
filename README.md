@@ -14,4 +14,4 @@
 ![y0M0ST's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y0M0ST&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 📈 GitHub Stats
-![y0M0ST's GitHub Stats](https://github-readme-stats.vercel.app/api/stats/?username=y0M0ST&theme=dark&show_icons=true&hide_border=true)
+![y0M0ST's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y0M0ST&theme=dark&show_icons=true&hide_border=true&layout=compact)
