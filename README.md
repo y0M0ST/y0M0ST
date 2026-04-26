@@ -8,8 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🏢 **Currently:** Scaling things up as an Intern at **Apps Cyclone**.
-- 🎓 **Education:** Final year student at **Duy Tan University** (KLTN is in progress... ⏳).
+- 🏢 **Currently:** Scaling things up as an outsource company.
 - 🧠 **Learning:** Bridging the gap between **Monolith** and **Microservices** (and trying not to blow up the server).
 - 💬 **Ask me about:** Node.js, API Design, or why **Emerald collection** in Skyblock is so grindy.
 
@@ -27,7 +26,7 @@
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:phucnguyen2812cuwin@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-profile)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/phucnguyen2812/)
 
 ---
 *“Simplicity is the soul of efficiency.”*
